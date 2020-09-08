@@ -1,6 +1,6 @@
 # guess_the_word
 
-A new Flutter application.
+A simple Flutter application.
 
 ## Getting Started
 
