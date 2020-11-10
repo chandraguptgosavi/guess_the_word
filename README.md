@@ -4,6 +4,7 @@ Guess It is a word guessing app you can play with one or more friends.
 
 ## Screenshots
 
-![](/screen0.png)
-![](/screen1.png)
-![](/screen2.png)
+![](/Screenshot_1605031207.png)
+![](/Screenshot_1605031215.png)
+![](/Screenshot_1605031221.png)
+![](/Screenshot_1605031251.png)
